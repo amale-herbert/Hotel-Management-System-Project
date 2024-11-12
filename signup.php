@@ -18,7 +18,7 @@
     </nav>
     <div class="container">
         <h1>Sign Up</h1>
-        <form action="signup.php" method="post">
+        <form action="signin_db.php" method="post">
             <input type="text" name="username" placeholder="Username" required>
             <input type="email" name="email" placeholder="Email" required>
             <input type="password" name="password" placeholder="Password" required>
