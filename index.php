@@ -73,5 +73,7 @@
         </div>
         <h3 style="color: cyan;"><i>Your comfort is our priority</i></style></h3>
     </div>
+    <script src="js/jquery-3.7.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 </body>
 </html>
