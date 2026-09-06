@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/styles.css">
-    <title>Home Page - WELCOME TO OUR HOTEL</title>
+    <title>WELCOME TO OUR HOTEL</title>
     <style>
         body {
             font-family: Arial, sans-serif;

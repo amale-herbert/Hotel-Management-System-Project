@@ -30,6 +30,7 @@
             <li>Best Hotel in the City (2020)</li>
             <li>Certificate of Excellence (2019)</li>
             <li>Top Rated Hotel (2018)</li>
+            <li>Best Customer Service (2017)</li>
         </ul>
         <h2>Get in Touch</h2>
         <p>If you have any questions or would like to make a reservation, please don't hesitate to contact us. We look forward to hearing from you and welcoming you to our hotel soon!</p>
@@ -43,7 +44,7 @@
             <a href="https://www.facebook.com/hotel" target="_blank" class="social-link">
                 <i class="fa fa-facebook" aria-hidden="true"></i>
             </a>
-            <a href="https://www .twitter.com/hotel" target="_blank" class="social-link">
+            <a href="https://www.twitter.com/hotel" target="_blank" class="social-link">
                 <i class="fa fa-twitter" aria-hidden="true"></i>
             </a>
         </p>
