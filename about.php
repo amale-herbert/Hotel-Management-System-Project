@@ -11,13 +11,13 @@
         <ul>
             <li><a href="index.php"><b>Home</b></a></li>
             <li><a href="about.php"><b>About</b></a></li>
-            <li><a href="pricing.php"><b>Pricing</b></a></li>
-            <li><a href="search.php"><b>Search</b></a></li>
+            <li>a href="pricing.php"><b>Pricing</b></a></li>
+            <li><a href="search-results.php"><b>Search</b></a></li>
             <li><a href="login.php"><b>Sign Up/Login</b></a></li>
         </ul>
     </nav>
     <div class="container">
-        <h1>About Us</h1>
+        <h1>About Us
         <p>Welcome to our hotel, where we strive to provide the best possible experience for our guests. Our hotel is located in the heart of the city, making it the perfect place to stay for both business and leisure travelers.</p>
         <img src="images/hotel-exterior.jpg" alt="Hotel Exterior" style="width: 50%; margin: 20px auto;">
         <h2>Our Mission</h2>
