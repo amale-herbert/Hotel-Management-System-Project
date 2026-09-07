@@ -12,7 +12,7 @@
             <li><a href="index.php"><b>Home</b></a></li>
             <li><a href="about.php"><b>About</b></a></li>
             <li>a href="pricing.php"><b>Pricing</b></a></li>
-            <li><a href="search.php"><b>Search</b></a></li>
+            <li><a href="search-results.php"><b>Search</b></a></li>
             <li><a href="login.php"><b>Sign Up/Login</b></a></li>
         </ul>
     </nav>
